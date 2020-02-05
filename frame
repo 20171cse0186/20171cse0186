@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>html frames</title>
+</head>
+<frameset rows="10%,80%,10%">
+<frame name="top" src="divya.html"/>
+<frame name="bottom" src="resume.html"/>
+<noframes>
+<body>your browser doesnt support frames</body>
+</noframes>
+</frameset>
+</html>
