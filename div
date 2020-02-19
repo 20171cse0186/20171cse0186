@@ -1,0 +1,83 @@
+<html>
+<head>
+<title>resume</title>
+<style>
+table, th, td {
+  border: 0.7px solid black;
+  text-align:center;
+}
+
+</style>
+</head>
+<body style="background-color: #C3C300;">
+<img src="/home/6CSE3/Desktop/186/index.png" width="160" height="80" alt="divya" align="right"/>
+<h5>DIVYA R</h5>
+<h5>9591296102</h5>
+<a href="mailto:divyar359445@gmail.com">divyar359445@gmail.com</a>
+<hr>
+<div style="font-family:sans-serif">
+<h4>Career objective</h4>
+<hr>
+<p>Seeking an entry-level position to begin my career in a high-level professional environment.</p>
+<h4>Technical skills</h4>
+<hr>
+<ul>
+<li><span style="color:red;">operating systems:</span>dos,windows 2000,windows xp,windows server 2003</li>
+<li><span style="color:red;">programming skills:</span>HTML,CSS,python,javascript,learning c and c++</li>
+</ul>
+<h4>Education</h4>
+<hr>
+<table style="width:100%"> 
+        <tr> 
+            <th>Major</th> 
+            <th>Name of Institution</th> 
+            <th>cgpa</th> 
+        </tr> 
+        <tr> 
+            <td>B.tech</td> 
+            <td>Presidency University</td> 
+            <td>7.5</td> 
+        </tr> 
+        <tr> 
+            <td>SSLC</td> 
+            <td>Impact School</td> 
+            <td>77.12%</td> 
+        </tr> 
+        <tr> 
+            <td>PUC</td> 
+            <td>St Anne's Pu College</td> 
+            <td>77.12%</td> 
+        </tr> 
+    </table> 
+<h4>experential learning(INTERNSHIP)</h4><hr>
+<pre style="font-size:16;font-family:sans-serif">
+COMPANY:Goavega Software Private ltd.
+PROJECT:Mobile Application Development.
+</pre>
+<ul type="disc">
+<li><h4> Goavega Software Private ltd.(Mobile Application Development)</h4></li>
+<p>job responsibilities</p>
+<ul type="bullet">
+<li> Develop and manage digital marketing campaigns</li>
+<li> Manage organization’s website</li>
+</ul>
+<h4>independent courses</h4>
+<hr>
+<ul>
+<li>HTML and CSS for beginners web fundamentals-codeacademy.com</li>
+<li>python-fundamentals-udemy</li>
+<li>mobile app development-react native</li>
+</ul>
+</div>
+<ul>
+</body>
+<hr>
+<address>yelahanka;
+bangalore;
+karnataka</address>
+<a href="https://www.presidencyuniversity.in">my university.in</a>
+<a href="D:/home/6CSE3/Desktop/resume"></a><br>
+<a href=@edu>education</a><br>
+<a href="mailto:divyar359445@gmail.com">sent mail</a>
+</div>
+</html>
